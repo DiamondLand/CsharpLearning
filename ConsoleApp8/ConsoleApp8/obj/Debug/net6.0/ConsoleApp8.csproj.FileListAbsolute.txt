@@ -1,0 +1,14 @@
+D:\учеба\Csh\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.exe
+D:\учеба\Csh\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.deps.json
+D:\учеба\Csh\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.runtimeconfig.json
+D:\учеба\Csh\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.dll
+D:\учеба\Csh\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.pdb
+D:\учеба\Csh\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Csh\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.AssemblyInfoInputs.cache
+D:\учеба\Csh\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.AssemblyInfo.cs
+D:\учеба\Csh\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+D:\учеба\Csh\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.dll
+D:\учеба\Csh\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\refint\ConsoleApp8.dll
+D:\учеба\Csh\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.pdb
+D:\учеба\Csh\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.genruntimeconfig.cache
+D:\учеба\Csh\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ref\ConsoleApp8.dll

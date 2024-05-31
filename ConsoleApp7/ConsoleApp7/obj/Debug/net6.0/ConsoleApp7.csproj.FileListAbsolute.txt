@@ -1,0 +1,14 @@
+D:\учеба\Csh\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.exe
+D:\учеба\Csh\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.deps.json
+D:\учеба\Csh\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.runtimeconfig.json
+D:\учеба\Csh\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.dll
+D:\учеба\Csh\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.pdb
+D:\учеба\Csh\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Csh\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfoInputs.cache
+D:\учеба\Csh\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfo.cs
+D:\учеба\Csh\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+D:\учеба\Csh\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.dll
+D:\учеба\Csh\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\refint\ConsoleApp7.dll
+D:\учеба\Csh\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.pdb
+D:\учеба\Csh\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.genruntimeconfig.cache
+D:\учеба\Csh\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ref\ConsoleApp7.dll

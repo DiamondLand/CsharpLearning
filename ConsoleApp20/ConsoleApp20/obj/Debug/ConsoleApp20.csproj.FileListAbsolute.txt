@@ -1,0 +1,16 @@
+D:\Programming\Csharp\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe.config
+D:\Programming\Csharp\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe
+D:\Programming\Csharp\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.pdb
+D:\Programming\Csharp\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.AssemblyReference.cache
+D:\Programming\Csharp\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Csharp\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.CoreCompileInputs.cache
+D:\Programming\Csharp\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.exe
+D:\Programming\Csharp\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.pdb
+D:\KipFin\Csharp\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe.config
+D:\KipFin\Csharp\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe
+D:\KipFin\Csharp\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.pdb
+D:\KipFin\Csharp\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.AssemblyReference.cache
+D:\KipFin\Csharp\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.SuggestedBindingRedirects.cache
+D:\KipFin\Csharp\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.CoreCompileInputs.cache
+D:\KipFin\Csharp\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.exe
+D:\KipFin\Csharp\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.pdb

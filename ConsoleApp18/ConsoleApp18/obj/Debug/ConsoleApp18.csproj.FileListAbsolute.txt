@@ -1,0 +1,8 @@
+D:\Programming\Csharp\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+D:\Programming\Csharp\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+D:\Programming\Csharp\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.AssemblyReference.cache
+D:\Programming\Csharp\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Csharp\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+D:\Programming\Csharp\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+D:\Programming\Csharp\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
+D:\Programming\Csharp\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.pdb

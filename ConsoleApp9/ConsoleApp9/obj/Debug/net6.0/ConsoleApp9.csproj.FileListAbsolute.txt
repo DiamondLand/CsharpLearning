@@ -1,0 +1,14 @@
+D:\учеба\Csh\ConsoleApp9\ConsoleApp9\bin\Debug\net6.0\ConsoleApp9.exe
+D:\учеба\Csh\ConsoleApp9\ConsoleApp9\bin\Debug\net6.0\ConsoleApp9.deps.json
+D:\учеба\Csh\ConsoleApp9\ConsoleApp9\bin\Debug\net6.0\ConsoleApp9.runtimeconfig.json
+D:\учеба\Csh\ConsoleApp9\ConsoleApp9\bin\Debug\net6.0\ConsoleApp9.dll
+D:\учеба\Csh\ConsoleApp9\ConsoleApp9\bin\Debug\net6.0\ConsoleApp9.pdb
+D:\учеба\Csh\ConsoleApp9\ConsoleApp9\obj\Debug\net6.0\ConsoleApp9.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Csh\ConsoleApp9\ConsoleApp9\obj\Debug\net6.0\ConsoleApp9.AssemblyInfoInputs.cache
+D:\учеба\Csh\ConsoleApp9\ConsoleApp9\obj\Debug\net6.0\ConsoleApp9.AssemblyInfo.cs
+D:\учеба\Csh\ConsoleApp9\ConsoleApp9\obj\Debug\net6.0\ConsoleApp9.csproj.CoreCompileInputs.cache
+D:\учеба\Csh\ConsoleApp9\ConsoleApp9\obj\Debug\net6.0\ConsoleApp9.dll
+D:\учеба\Csh\ConsoleApp9\ConsoleApp9\obj\Debug\net6.0\refint\ConsoleApp9.dll
+D:\учеба\Csh\ConsoleApp9\ConsoleApp9\obj\Debug\net6.0\ConsoleApp9.pdb
+D:\учеба\Csh\ConsoleApp9\ConsoleApp9\obj\Debug\net6.0\ConsoleApp9.genruntimeconfig.cache
+D:\учеба\Csh\ConsoleApp9\ConsoleApp9\obj\Debug\net6.0\ref\ConsoleApp9.dll

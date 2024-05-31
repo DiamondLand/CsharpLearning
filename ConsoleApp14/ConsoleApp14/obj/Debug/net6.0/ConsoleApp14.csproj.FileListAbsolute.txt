@@ -1,0 +1,14 @@
+D:\учеба\Csh\ConsoleApp14\ConsoleApp14\bin\Debug\net6.0\ConsoleApp14.exe
+D:\учеба\Csh\ConsoleApp14\ConsoleApp14\bin\Debug\net6.0\ConsoleApp14.deps.json
+D:\учеба\Csh\ConsoleApp14\ConsoleApp14\bin\Debug\net6.0\ConsoleApp14.runtimeconfig.json
+D:\учеба\Csh\ConsoleApp14\ConsoleApp14\bin\Debug\net6.0\ConsoleApp14.dll
+D:\учеба\Csh\ConsoleApp14\ConsoleApp14\bin\Debug\net6.0\ConsoleApp14.pdb
+D:\учеба\Csh\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Csh\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.AssemblyInfoInputs.cache
+D:\учеба\Csh\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.AssemblyInfo.cs
+D:\учеба\Csh\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.csproj.CoreCompileInputs.cache
+D:\учеба\Csh\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.dll
+D:\учеба\Csh\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\refint\ConsoleApp14.dll
+D:\учеба\Csh\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.pdb
+D:\учеба\Csh\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.genruntimeconfig.cache
+D:\учеба\Csh\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ref\ConsoleApp14.dll

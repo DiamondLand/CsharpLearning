@@ -1,0 +1,8 @@
+D:\KipFin\Csharp\ConsoleApp31\ConsoleApp31\bin\Debug\ConsoleApp31.exe.config
+D:\KipFin\Csharp\ConsoleApp31\ConsoleApp31\bin\Debug\ConsoleApp31.exe
+D:\KipFin\Csharp\ConsoleApp31\ConsoleApp31\bin\Debug\ConsoleApp31.pdb
+D:\KipFin\Csharp\ConsoleApp31\ConsoleApp31\obj\Debug\ConsoleApp31.csproj.AssemblyReference.cache
+D:\KipFin\Csharp\ConsoleApp31\ConsoleApp31\obj\Debug\ConsoleApp31.csproj.SuggestedBindingRedirects.cache
+D:\KipFin\Csharp\ConsoleApp31\ConsoleApp31\obj\Debug\ConsoleApp31.csproj.CoreCompileInputs.cache
+D:\KipFin\Csharp\ConsoleApp31\ConsoleApp31\obj\Debug\ConsoleApp31.exe
+D:\KipFin\Csharp\ConsoleApp31\ConsoleApp31\obj\Debug\ConsoleApp31.pdb

@@ -1,0 +1,14 @@
+D:\учеба\Csh\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\ConsoleApp10.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Csh\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\ConsoleApp10.AssemblyInfoInputs.cache
+D:\учеба\Csh\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\ConsoleApp10.AssemblyInfo.cs
+D:\учеба\Csh\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\ConsoleApp10.csproj.CoreCompileInputs.cache
+D:\учеба\Csh\ConsoleApp10\ConsoleApp10\bin\Debug\net6.0\ConsoleApp10.exe
+D:\учеба\Csh\ConsoleApp10\ConsoleApp10\bin\Debug\net6.0\ConsoleApp10.deps.json
+D:\учеба\Csh\ConsoleApp10\ConsoleApp10\bin\Debug\net6.0\ConsoleApp10.runtimeconfig.json
+D:\учеба\Csh\ConsoleApp10\ConsoleApp10\bin\Debug\net6.0\ConsoleApp10.dll
+D:\учеба\Csh\ConsoleApp10\ConsoleApp10\bin\Debug\net6.0\ConsoleApp10.pdb
+D:\учеба\Csh\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\ConsoleApp10.dll
+D:\учеба\Csh\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\refint\ConsoleApp10.dll
+D:\учеба\Csh\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\ConsoleApp10.pdb
+D:\учеба\Csh\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\ConsoleApp10.genruntimeconfig.cache
+D:\учеба\Csh\ConsoleApp10\ConsoleApp10\obj\Debug\net6.0\ref\ConsoleApp10.dll
